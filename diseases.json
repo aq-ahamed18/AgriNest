@@ -1,0 +1,127 @@
+[
+    {
+        "ID": "D001",
+        "Disease Name": "Blight",
+        "Plants Affected": [
+            "Tomato",
+            "Potato"
+        ]
+    },
+    {
+        "ID": "D002",
+        "Disease Name": "Powdery Mildew",
+        "Plants Affected": [
+            "Cucumber",
+            "Lettuce",
+            "Spinach"
+        ]
+    },
+    {
+        "ID": "D003",
+        "Disease Name": "Root Rot",
+        "Plants Affected": [
+            "Carrot",
+            "Onion",
+            "Garlic"
+        ]
+    },
+    {
+        "ID": "D004",
+        "Disease Name": "Leaf Spot",
+        "Plants Affected": [
+            "Tomato",
+            "Strawberry",
+            "Pepper"
+        ]
+    },
+    {
+        "ID": "D005",
+        "Disease Name": "Rust",
+        "Plants Affected": [
+            "Spinach",
+            "Potato"
+        ]
+    },
+    {
+        "ID": "D006",
+        "Disease Name": "Wilt",
+        "Plants Affected": [
+            "Tomato",
+            "Cucumber"
+        ]
+    },
+    {
+        "ID": "D007",
+        "Disease Name": "Anthracnose",
+        "Plants Affected": [
+            "Apple",
+            "Mango",
+            "Peach"
+        ]
+    },
+    {
+        "ID": "D008",
+        "Disease Name": "Bacterial Soft Rot",
+        "Plants Affected": [
+            "Potato",
+            "Carrot"
+        ]
+    },
+    {
+        "ID": "D009",
+        "Disease Name": "Downy Mildew",
+        "Plants Affected": [
+            "Lettuce",
+            "Cucumber"
+        ]
+    },
+    {
+        "ID": "D010",
+        "Disease Name": "Scab",
+        "Plants Affected": [
+            "Apple",
+            "Potato"
+        ]
+    },
+    {
+        "ID": "D011",
+        "Disease Name": "Leaf Curl",
+        "Plants Affected": [
+            "Mango",
+            "Grapes"
+        ]
+    },
+    {
+        "ID": "D012",
+        "Disease Name": "Mosaic Virus",
+        "Plants Affected": [
+            "Tomato",
+            "Pepper",
+            "Strawberry"
+        ]
+    },
+    {
+        "ID": "D013",
+        "Disease Name": "Smut",
+        "Plants Affected": [
+            "Onion",
+            "Garlic"
+        ]
+    },
+    {
+        "ID": "D014",
+        "Disease Name": "Canker",
+        "Plants Affected": [
+            "Apple",
+            "Peach"
+        ]
+    },
+    {
+        "ID": "D015",
+        "Disease Name": "Botrytis",
+        "Plants Affected": [
+            "Strawberry",
+            "Grapes"
+        ]
+    }
+]

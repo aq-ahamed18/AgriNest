@@ -1,0 +1,37 @@
+[
+    {
+        "username": "himni",
+        "password": "irunika",
+        "mobile": "6564+949+",
+        "userType": "User",
+        "accountType": "Premium"
+    },
+    {
+        "username": "japura",
+        "password": "university",
+        "mobile": "564644",
+        "userType": "User",
+        "accountType": "Free"
+    },
+    {
+        "username": "kelaniya",
+        "password": "university",
+        "mobile": "456123987",
+        "userType": "User",
+        "accountType": "Free"
+    },
+    {
+        "username": "kelaniya25",
+        "password": "university",
+        "mobile": "456123987",
+        "userType": "User",
+        "accountType": "Premium"
+    },
+    {
+        "username": "colombo",
+        "password": "741258963",
+        "mobile": "27327",
+        "userType": "User",
+        "accountType": "Free"
+    }
+]

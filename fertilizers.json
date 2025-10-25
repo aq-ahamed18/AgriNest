@@ -1,0 +1,123 @@
+[
+    {
+        "FertilizerID": "F001",
+        "FertilizerName": "GrowMax",
+        "Diseases Treated": [
+            "Blight",
+            "Wilt"
+        ]
+    },
+    {
+        "FertilizerID": "F002",
+        "FertilizerName": "LeafShield",
+        "Diseases Treated": [
+            "Powdery Mildew",
+            "Rust"
+        ]
+    },
+    {
+        "FertilizerID": "F003",
+        "FertilizerName": "RootBoost",
+        "Diseases Treated": [
+            "Root Rot",
+            "Bacterial Soft Rot"
+        ]
+    },
+    {
+        "FertilizerID": "F004",
+        "FertilizerName": "FruitGuard",
+        "Diseases Treated": [
+            "Anthracnose",
+            "Canker"
+        ]
+    },
+    {
+        "FertilizerID": "F005",
+        "FertilizerName": "VeggieSafe",
+        "Diseases Treated": [
+            "Downy Mildew",
+            "Leaf Spot"
+        ]
+    },
+    {
+        "FertilizerID": "F006",
+        "FertilizerName": "TomatoPlus",
+        "Diseases Treated": [
+            "Mosaic Virus",
+            "Blight"
+        ]
+    },
+    {
+        "FertilizerID": "F007",
+        "FertilizerName": "OnionGrow",
+        "Diseases Treated": [
+            "Smut",
+            "Root Rot"
+        ]
+    },
+    {
+        "FertilizerID": "F008",
+        "FertilizerName": "BerryBoost",
+        "Diseases Treated": [
+            "Botrytis",
+            "Leaf Spot"
+        ]
+    },
+    {
+        "FertilizerID": "F009",
+        "FertilizerName": "AppleCare",
+        "Diseases Treated": [
+            "Scab",
+            "Canker"
+        ]
+    },
+    {
+        "FertilizerID": "F010",
+        "FertilizerName": "PepperShield",
+        "Diseases Treated": [
+            "Leaf Spot",
+            "Mosaic Virus"
+        ]
+    },
+    {
+        "FertilizerID": "F011",
+        "FertilizerName": "SpinachGuard",
+        "Diseases Treated": [
+            "Rust",
+            "Powdery Mildew"
+        ]
+    },
+    {
+        "FertilizerID": "F012",
+        "FertilizerName": "PotatoMax",
+        "Diseases Treated": [
+            "Blight",
+            "Scab",
+            "Bacterial Soft Rot"
+        ]
+    },
+    {
+        "FertilizerID": "F013",
+        "FertilizerName": "CarrotCare",
+        "Diseases Treated": [
+            "Root Rot",
+            "Bacterial Soft Rot"
+        ]
+    },
+    {
+        "FertilizerID": "F014",
+        "FertilizerName": "GrapesGuard",
+        "Diseases Treated": [
+            "Leaf Curl",
+            "Botrytis"
+        ]
+    },
+    {
+        "FertilizerID": "F015",
+        "FertilizerName": "MangoShield",
+        "Diseases Treated": [
+            "Leaf Curl",
+            "Anthracnose"
+        ]
+    }
+]

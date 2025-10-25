@@ -1,0 +1,62 @@
+[
+    {
+        "ID": "P003",
+        "Plant Name": "Cucumber"
+    },
+    {
+        "ID": "P004",
+        "Plant Name": "Carrot"
+    },
+    {
+        "ID": "P005",
+        "Plant Name": "Lettuce"
+    },
+    {
+        "ID": "P006",
+        "Plant Name": "Spinach"
+    },
+    {
+        "ID": "P007",
+        "Plant Name": "Onion"
+    },
+    {
+        "ID": "P008",
+        "Plant Name": "Garlic"
+    },
+    {
+        "ID": "P009",
+        "Plant Name": "Strawberry"
+    },
+    {
+        "ID": "P010",
+        "Plant Name": "Apple"
+    },
+    {
+        "ID": "P011",
+        "Plant Name": "Banana"
+    },
+    {
+        "ID": "P012",
+        "Plant Name": "Mango"
+    },
+    {
+        "ID": "P013",
+        "Plant Name": "Grapes"
+    },
+    {
+        "ID": "P014",
+        "Plant Name": "Peach"
+    },
+    {
+        "ID": "P015",
+        "Plant Name": "pepper"
+    },
+    {
+        "ID": "P001",
+        "Plant Name": "tomato"
+    },
+    {
+        "ID": "P016",
+        "Plant Name": "potato"
+    }
+]

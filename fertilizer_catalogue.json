@@ -1,0 +1,107 @@
+[
+    {
+        "FertilizerID": "F001",
+        "FertilizerName": "GrowMax",
+        "Description": "Enhances root development and flowering.",
+        "ImageURL": "",
+        "Price": 1200
+    },
+    {
+        "FertilizerID": "F002",
+        "FertilizerName": "LeafShield",
+        "Description": "Reduces plant water loss by forming a protective film.",
+        "ImageURL": "",
+        "Price": 950
+    },
+    {
+        "FertilizerID": "F003",
+        "FertilizerName": "RootBoost",
+        "Description": "Promotes root growth and improves soil fertility.",
+        "ImageURL": "",
+        "Price": 1100
+    },
+    {
+        "FertilizerID": "F004",
+        "FertilizerName": "FruitGuard",
+        "Description": "Controls insects and diseases on fruit and ornamental plants.",
+        "ImageURL": "",
+        "Price": 1300
+    },
+    {
+        "FertilizerID": "F005",
+        "FertilizerName": "VeggieSafe",
+        "Description": "Organic fertilizer for a wide range of vegetables.",
+        "ImageURL": "",
+        "Price": 1050
+    },
+    {
+        "FertilizerID": "F006",
+        "FertilizerName": "TomatoPlus",
+        "Description": "Enhances fruit size and yield in tomatoes.",
+        "ImageURL": "",
+        "Price": 1150
+    },
+    {
+        "FertilizerID": "F007",
+        "FertilizerName": "OnionGrow",
+        "Description": "Specially formulated for onion growth.",
+        "ImageURL": "",
+        "Price": 950
+    },
+    {
+        "FertilizerID": "F008",
+        "FertilizerName": "BerryBoost",
+        "Description": "Improves water retention and blueberry yields.",
+        "ImageURL": "",
+        "Price": 1250
+    },
+    {
+        "FertilizerID": "F009",
+        "FertilizerName": "AppleCare",
+        "Description": "Protects apple trees from common pests and diseases.",
+        "ImageURL": "",
+        "Price": 1350
+    },
+    {
+        "FertilizerID": "F010",
+        "FertilizerName": "PepperShield",
+        "Description": "Enhances pepper plant health and yield.",
+        "ImageURL": "",
+        "Price": 1100
+    },
+    {
+        "FertilizerID": "F011",
+        "FertilizerName": "SpinachGuard",
+        "Description": "Protects spinach from common pests and diseases.",
+        "ImageURL": "",
+        "Price": 1000
+    },
+    {
+        "FertilizerID": "F012",
+        "FertilizerName": "PotatoMax",
+        "Description": "Boosts potato growth and tuber development.",
+        "ImageURL": "",
+        "Price": 1200
+    },
+    {
+        "FertilizerID": "F013",
+        "FertilizerName": "CarrotCare",
+        "Description": "Enhances carrot root development and size.",
+        "ImageURL": "",
+        "Price": 950
+    },
+    {
+        "FertilizerID": "F014",
+        "FertilizerName": "GrapesGuard",
+        "Description": "Protects grapevines from pests and diseases.",
+        "ImageURL": "",
+        "Price": 1300
+    },
+    {
+        "FertilizerID": "F015",
+        "FertilizerName": "MangoShield",
+        "Description": "Enhances mango tree health and fruit production.",
+        "ImageURL": "",
+        "Price": 1400
+    }
+]
