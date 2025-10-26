@@ -31,4 +31,4 @@ The web app will open automatically in your default browser.
 🧠 Note
 
 This project is developed for educational purposes to demonstrate the integration of Python, Streamlit, and JSON data handling.
-It can be easily upgraded to use a real database (like SQLite or Firebase) in the future."# AgriNest" 
+It can be easily upgraded to use a real database (like SQLite or Firebase) in the future.
