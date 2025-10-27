@@ -187,27 +187,46 @@ def our_team():
 
     # Team member details
     team_members = [
-        {"name": "Aaqif Ahamed", "cpm": "26993", "image": None},
-        {"name": "Miyuru Malshan", "cpm": "26992", "image": None},
-        {"name": "Kavindu Theekshana", "cpm": "26991", "image": None},
-        {"name": "Muhammad Saheeth", "cpm": "26987", "image": None},
-        {"name": "V. Harithas", "cpm": "26985", "image": None},
+        {"name": "Aaqif Ahamed", "cpm": "26993", "image": "images/aaqif.jpg"},
+        {"name": "Miyuru Malshan", "cpm": "26992", "image": "images/miyuru.jpg"},
+        {"name": "Kavindu Theekshana", "cpm": "26991", "image": "images/kavindu.jpg"},
+        {"name": "Muhammad Saheeth", "cpm": "26987", "image": "images/saheeth.jpg"},
+        {"name": "V. Harithas", "cpm": "26985", "image": "images/haridas.jpg"},
     ]
 
     # Display team members one by one
     for member in team_members:
-        col1, col2 = st.columns([1, 3])  # Image on left, text on right
+        col1, col2 = st.columns([1, 3])
+
         with col1:
-            # Circular placeholder image with fixed 200x200 px size
-            st.image(
-                "https://via.placeholder.com/200",
-                width=200,  # fixed width
-                caption=None
-            )
+            if member["image"]:
+                # Try to display local image with error handling
+                try:
+                    st.image(
+                        member["image"],
+                        width=200,
+                        caption=None
+                    )
+                except:
+                    # Fallback to a reliable placeholder
+                    st.image(
+                        "https://placehold.co/200x200/EEE/31343C?font=montserrat&text=No+Image",
+                        width=200,
+                        caption=None
+                    )
+            else:
+                # Use placeholder for members without images
+                st.image(
+                    "https://placehold.co/200x200/EEE/31343C?font=montserrat&text=No+Image",
+                    width=200,
+                    caption=None
+                )
+
         with col2:
             st.subheader(member["name"])
             st.write(f"CPM: {member['cpm']}")
-        st.markdown("---")  # Separator line between members
+
+        st.markdown("---")
 
 # ------------------- Upgrade to Premium -------------------
 
