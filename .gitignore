@@ -1,0 +1,18 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Virtual env
+venv/
+env/
+.venv/
+
+# PyCharm
+.idea/
+
+# Environment / OS
+.env
+.DS_Store
