@@ -1,37 +1,23 @@
 [
     {
-        "username": "himni",
-        "password": "irunika",
-        "mobile": "6564+949+",
+        "username": "aaqifahamed",
+        "password": "bothalapitiya",
+        "mobile": "0771112223",
+        "userType": "User",
+        "accountType": "Free"
+    },
+    {
+        "username": "kavindu",
+        "password": "university",
+        "mobile": "0114445556",
         "userType": "User",
         "accountType": "Premium"
     },
     {
-        "username": "japura",
+        "username": "miyuru",
         "password": "university",
-        "mobile": "564644",
-        "userType": "User",
-        "accountType": "Free"
-    },
-    {
-        "username": "kelaniya",
-        "password": "university",
-        "mobile": "456123987",
-        "userType": "User",
-        "accountType": "Free"
-    },
-    {
-        "username": "kelaniya25",
-        "password": "university",
-        "mobile": "456123987",
+        "mobile": "02135645565",
         "userType": "User",
         "accountType": "Premium"
-    },
-    {
-        "username": "colombo",
-        "password": "741258963",
-        "mobile": "27327",
-        "userType": "User",
-        "accountType": "Free"
     }
 ]
